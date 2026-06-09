@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Clz3d+0Lw5w=",
+  "success": true,
+  "projectFilePath": "C:\\Git\\BancoKRT\\BancoKRT.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bricio\\.nuget\\packages\\awssdk.core\\4.0.8.1\\awssdk.core.4.0.8.1.nupkg.sha512",
+    "C:\\Users\\Bricio\\.nuget\\packages\\awssdk.dynamodbv2\\4.0.20.1\\awssdk.dynamodbv2.4.0.20.1.nupkg.sha512",
+    "C:\\Users\\Bricio\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\10.0.0\\microsoft.extensions.dependencyinjection.10.0.0.nupkg.sha512",
+    "C:\\Users\\Bricio\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.0\\microsoft.extensions.dependencyinjection.abstractions.10.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
