@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BancoKRT")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1774bad35738fe49c4503e3400e1bff82023d228")]
 [assembly: System.Reflection.AssemblyProductAttribute("BancoKRT")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BancoKRT")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

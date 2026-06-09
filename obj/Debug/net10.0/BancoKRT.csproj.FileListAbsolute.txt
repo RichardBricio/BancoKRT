@@ -18,3 +18,4 @@ C:\Git\BancoKRT\obj\Debug\net10.0\refint\BancoKRT.dll
 C:\Git\BancoKRT\obj\Debug\net10.0\BancoKRT.pdb
 C:\Git\BancoKRT\obj\Debug\net10.0\BancoKRT.genruntimeconfig.cache
 C:\Git\BancoKRT\obj\Debug\net10.0\ref\BancoKRT.dll
+C:\Git\BancoKRT\obj\Debug\net10.0\BancoKRT.sourcelink.json
